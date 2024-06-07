@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @saliinGithub
 - 👀 I’m interested in ... to do coding in dark corner with a cup of coffee.
-- 🌱 I’m currently learning ... HTML,CSS, JS, UI/UX design,Figma,Filmora13,Java in OOP
+- 🌱 I’m currently learning ... HTML,CSS, JS, UI/UX design,Figma,Filmora13,OOP in java
 - 💞️ I’m looking to collaborate on ... Designig projects
-- 📫 How to reach me ... 
-- 😄 Pronouns: ...
+- 📫 How to reach me ... It's difficult bruh.
+- 😄 Pronouns: ... Sth diff
 - ⚡ Fun fact: ... Enjoying alone in this crucial world.
 
 <!---
